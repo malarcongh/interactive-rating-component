@@ -1,0 +1,44 @@
+html, body{
+ background-color: var(--color-dark-blue-bg);
+ font-family: var(--font-overpass);
+ font-size: var(--font-main-size);
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: var(--color-light-grey);
+}
+
+a{
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
+}
+
+button{
+  border: none;
+  background: none;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+img{
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3{
+  color: var(--color-white);
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  color: var(--color-light-grey);
+}
