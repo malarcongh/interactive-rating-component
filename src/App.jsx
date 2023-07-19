@@ -1,4 +1,5 @@
 import RatingCard from "./components/RatingCard";
+import { AnimatePresence } from "framer-motion";
 
 function App() {
   return (
