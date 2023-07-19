@@ -1,6 +1,6 @@
 This is my solution for the Interactive Rating Component challenge from https://frontendmentor.io.
 
-It was made with Sass, React, Vite anbd FramerMotion.
+It was made with Sass, React, Vite and FramerMotion.
 
 Here's the final result:
 
